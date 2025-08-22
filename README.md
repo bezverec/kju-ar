@@ -1,5 +1,5 @@
 # About
-Simple QR generator written for my personal needs. The GUI is in Czech only.
+Simple QR generator written for my personal needs. The GUI is in Czech only. There is only Windows release.
 
 # TO-DO
 - English localization.
